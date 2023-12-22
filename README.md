@@ -39,9 +39,8 @@ https://github.com/praneeth724/CodingChallenge07/assets/116500216/7dea8b70-3570-
 
 🌐 GitHub Repository:
 
-  - I've open-sourced the code on GitHub to share with the coding community. Check it out  and feel free to contribute, share your thoughts, or use it for your own projects!
-
-
+  - I've open-sourced the code on GitHub to share with the coding community.
+  -  Check it out https://github.com/praneeth724/CodingChallenge07.git  
 
 🚀 Learning Takeaways:
 
